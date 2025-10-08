@@ -16,5 +16,5 @@
 
 1. Clone a GitHub repository from a new window in VLC
 
-1. Create your own branch in Source Control tab $\rightarrow$ everyone will work on their own branch
+1. Create and publish your branch using Source Control tab $\rightarrow$ everyone will work on their own branch
 
