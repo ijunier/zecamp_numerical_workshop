@@ -1,5 +1,5 @@
 ## Objectives
-<!-- a concise text about the workshop objectives-->
+<!-- a concise text about the workshop-->
 
 To familiarize oneself with a single computational framework that will, in parallel, allow us to:
 
