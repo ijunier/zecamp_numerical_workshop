@@ -7,7 +7,7 @@ To familiarize oneself with a single computational framework that will, in paral
 - maintain a well-documented record of our progress using [GitHub](https://github.com)
 - demonstrate how to easily:
     - write a numerical Markdown notebook (this file) that supports visualizations and quick note-taking
-    - run a cell-by-cell Jupyter notebook to analyze data and model genome sequences from *E. coli* strains available in the [data folder](./data/), starting with [the simplest code one can think of](./jupyter_notebooks/hello_data.ipynb).
+    - run a cell-by-cell Jupyter notebook to analyze data and model genome sequences from *E. coli* strains available in the [data folder](./data/), starting with [the simplest code one can think of](./jupyter_notebooks/hello_data.ipynb). Note that to have access to a folder like [data](https://github.com/ijunier/zecamp_numerical_workshop/tree/main/data), one needs to add the full url.
     - draft notes (like this one) including LaTeX $\rightarrow$ this might later serve as the basis for an article; note, however, that not all symbols are available
 - use a GitHub repository to:
     - start collaborating
