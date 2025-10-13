@@ -14,6 +14,8 @@
 
 1. perform the simplest commands ever in [Hello data file](./jupyter_notebooks/hello_data.ipynb)
 
+1. Do you want to create your own webpage? (rather easy in principle, by forking an already project/webpage)
+
 ## The next first steps (cloning a project and working on your own branch)
 
 1. I need your ssh  key
